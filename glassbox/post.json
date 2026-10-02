@@ -1,0 +1,126 @@
+{
+  "slug": "micclear",
+  "box": 130,
+  "question": "How does a microphone work?",
+  "url": "https://glassbox.how/e/micclear/",
+  "app": "https://glassbox.how/micclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "About 170 years from a pig's bristle scratching soot to the four tiny silicon microphones inside your phone.\n\n1876: ‘Mr. Watson, come here’\n1878: The carbon microphone gets its name\n1916: The condenser microphone\n1931: RCA's ribbon microphones\n1939: The Unidyne hears one way\n1947: The Neumann U 47\n\nThe full story, with 30 moments, sources and charts: glassbox.how/e/micclear/history (link in bio)\n\nThen play with how it works: glassbox.how/micclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #microphone #sound #dynamicmicrophone #condenser #mems #polarpattern #history",
+      "youtube": {
+        "title": "The history of the microphone in 45 seconds #shorts",
+        "description": "About 170 years from a pig's bristle scratching soot to the four tiny silicon microphones inside your phone.\n\n1876 · ‘Mr. Watson, come here’ (Alexander Graham Bell and Thomas Watson; Elisha Gray)\n1878 · The carbon microphone gets its name (David Edward Hughes)\n1916 · The condenser microphone (Edward C. Wente)\n1931 · RCA's ribbon microphones (Harry F. Olson and Les Anderson)\n1939 · The Unidyne hears one way (Benjamin Bauer)\n1947 · The Neumann U 47 (Georg Neumann GmbH)\n\n▶ Full history: https://glassbox.how/e/micclear/history/\n▶ Play with it: https://glassbox.how/e/micclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a microphone work?\n\nYour voice shoves a skin thinner than a hair, and a coil, a charged film or a chip of silicon turns that shiver into a few thousandths of a volt. Take a microphone apart in 3D, walk round it, and make it howl.\n\n→ A stage microphone is a grille, a thin diaphragm, a copper coil and a magnet.\n→ Sound is a wave of air pressure that pushes a thin diaphragm in and out.\n→ In a dynamic microphone, a coil moving in a magnet’s gap generates the signal.\n→ A condenser is a charged film a hair’s width from a metal plate: move the film and the voltage changes.\n→ A MEMS microphone is the same idea etched in silicon, 3.5 mm long, and every phone has several.\n\nPlay with it yourself. It's free and open source: glassbox.how/micclear (link in bio)\n\nBox No. 130 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #microphone #sound #dynamicmicrophone #condenser #mems #polarpattern #xlr #phantompower #sampling",
+    "carousel": "Swipe through: How does a microphone work?\n\nYour voice shoves a skin thinner than a hair, and a coil, a charged film or a chip of silicon turns that shiver into a few thousandths of a volt. Take a microphone apart in 3D, walk round it, and make it howl.\n\nSave this for later, then play with the interactive version at glassbox.how/micclear (link in bio).\n\nBox No. 130 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #microphone #sound #dynamicmicrophone #condenser #mems #polarpattern",
+    "youtube": {
+      "title": "How does a microphone work? #shorts",
+      "description": "Your voice shoves a skin thinner than a hair, and a coil, a charged film or a chip of silicon turns that shiver into a few thousandths of a volt. Take a microphone apart in 3D, walk round it, and make it howl.\n\n▶ Play with it: https://glassbox.how/e/micclear/\n⌘ Source code (MIT): https://github.com/bdeeps/micclear\n\nBox No. 130 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a microphone work? (interactive explainer)",
+      "description": "Your voice shoves a skin thinner than a hair, and a coil, a charged film or a chip of silicon turns that shiver into a few thousandths of a volt. Take a microphone apart in 3D, walk round it, and make it howl.\n\n▶ Play with the interactive version: https://glassbox.how/e/micclear/\n⌘ Source code (MIT): https://github.com/bdeeps/micclear\n\nIn this video:\n• A grille, a diaphragm, a coil and a magnet. A stage microphone is a tiny generator.\n• Sound is pressure, and the diaphragm rides it. Sound is a wave of air pressure moving at 343 metres a second.\n• Four ways to make a voltage. A dynamic moves a coil in a magnetic field.\n• The shape of its hearing. Seal the back of a capsule and it hears all round.\n• A whisper down a noisy cable. A microphone gives a few millivolts, so a preamp must boost it hundreds of times.\n• Numbers, and the howl. A converter measures the signal 48,000 times a second and stores each measurement as a number.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a microphone work?\n\nYour voice shoves a skin thinner than a hair, and a coil, a charged film or a chip of silicon turns that shiver into a few thousandths of a volt.\n\nPlay with it: https://glassbox.how/e/micclear/",
+    "linkedin": "How does a microphone work?\n\nYour voice shoves a skin thinner than a hair, and a coil, a charged film or a chip of silicon turns that shiver into a few thousandths of a volt. Take a microphone apart in 3D, walk round it, and make it howl.\n\n1. A grille, a diaphragm, a coil and a magnet\n2. Sound is pressure, and the diaphragm rides it\n3. Four ways to make a voltage\n4. The shape of its hearing\n5. A whisper down a noisy cable\n6. Numbers, and the howl\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 130 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/micclear/\nCode: https://github.com/bdeeps/micclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-03T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-02T20:14:54.485Z"
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "micclear",
+  "box": 130,
+  "date": "2026-10-05",
+  "title": "MicClear",
+  "question": "How does a microphone work?",
+  "hook": "Your voice shoves a skin thinner than a hair, and a coil, a charged film or a chip of silicon turns that shiver into a few thousandths of a volt. Take a microphone apart in 3D, walk round it, and make it howl.",
+  "thumbText": "HOW A MIC WORKS",
+  "field": "sound",
+  "minutes": 14,
+  "tags": [
+    "microphone",
+    "sound",
+    "dynamic microphone",
+    "condenser",
+    "MEMS",
+    "polar pattern",
+    "XLR",
+    "phantom power",
+    "sampling",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A grille, a diaphragm, a coil and a magnet",
+      "text": "A stage microphone is a tiny generator. Behind the steel ball and a layer of foam sits a plastic dome thinner than a hair, with a coil of fine copper wire glued to it. The coil hangs in a magnet's gap. A transformer and three pins carry the signal away."
+    },
+    {
+      "title": "Sound is pressure, and the diaphragm rides it",
+      "text": "Sound is a wave of air pressure moving at 343 metres a second. Loud speech changes the pressure by less than one part in a hundred thousand, and each bit of air only shivers by about a thousandth of a millimetre. That is enough to push a light diaphragm in and out."
+    },
+    {
+      "title": "Four ways to make a voltage",
+      "text": "A dynamic moves a coil in a magnetic field. A ribbon does the same with a strip of foil. A condenser is a charged film next to a metal plate: the gap changes, so the voltage changes, and it needs power. A MEMS microphone is a condenser etched in silicon, a few millimetres long, and every phone has several."
+    },
+    {
+      "title": "The shape of its hearing",
+      "text": "Seal the back of a capsule and it hears all round. Open both sides and it hears front and back but not the sides. Mix the two and you get the heart-shaped cardioid that is deaf behind. A shotgun adds a slotted tube. Get close to a directional microphone and the bass swells."
+    },
+    {
+      "title": "A whisper down a noisy cable",
+      "text": "A microphone gives a few millivolts, so a preamp must boost it hundreds of times. A balanced cable sends the signal twice, one copy upside down. Hum lands equally on both wires and cancels when they are subtracted. The same wires carry 48 volts of phantom power to condenser microphones."
+    },
+    {
+      "title": "Numbers, and the howl",
+      "text": "A converter measures the signal 48,000 times a second and stores each measurement as a number. Too few bits sound gritty, too high a tone turns into a false one, and too big a signal clips. And a microphone that hears its own loudspeaker makes a loop: past the tipping point it howls."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Transducer",
+      "def": "A device that turns one kind of energy into another. A microphone turns sound into an electrical signal."
+    },
+    {
+      "term": "Diaphragm",
+      "def": "The thin, light skin in a microphone that sound pushes back and forth."
+    },
+    {
+      "term": "Dynamic microphone",
+      "def": "A microphone that makes its voltage with a coil moving in a magnet's field. It needs no power."
+    },
+    {
+      "term": "Condenser microphone",
+      "def": "A microphone whose diaphragm is one plate of a charged capacitor. It needs power, usually 48 volts."
+    },
+    {
+      "term": "MEMS microphone",
+      "def": "A condenser microphone etched out of silicon, a few millimetres long, with its amplifier in the same package."
+    },
+    {
+      "term": "Sensitivity",
+      "def": "How many millivolts a microphone gives for one pascal of sound pressure (94 dB SPL)."
+    },
+    {
+      "term": "Polar pattern",
+      "def": "A map of how well a microphone hears from each direction: omni, cardioid, figure-8 and others."
+    },
+    {
+      "term": "Balanced line",
+      "def": "Two signal wires carrying opposite copies of the signal, so that hum picked up on the way can be subtracted out."
+    },
+    {
+      "term": "Sample rate",
+      "def": "How many times a second a converter measures the signal. It can capture tones up to half that number."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "micclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
